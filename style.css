@@ -1,0 +1,27 @@
+body{
+    background: #010240;
+    font-family: "Agency FB";
+    color: white;
+    font-size: 20pt;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.index-photo{
+    width: 500px;
+    height: 300px;
+    border: 0.5rem solid white;
+}
+
+.index-container{
+    text-align: center;
+    margin: 10rem;
+}
+
+.footer-container{
+    text-align: center;
+    font-size: 10pt;
+}
