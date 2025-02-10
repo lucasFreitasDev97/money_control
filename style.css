@@ -1,5 +1,5 @@
 body{
-    background: #010240;
+    background: #000020;
     font-family: "Agency FB";
     color: white;
     font-size: 20pt;
@@ -24,4 +24,15 @@ a{
 .footer-container{
     text-align: center;
     font-size: 10pt;
+}
+
+.index-option-container{
+    text-align: center;
+}
+
+.centered-table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    border: 0.05rem solid white;
 }
