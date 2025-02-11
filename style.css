@@ -1,8 +1,14 @@
 body{
-    background: #000020;
+    background: #000000;
     font-family: "Agency FB";
     color: white;
     font-size: 20pt;
+}
+
+table, th, td{
+    border: 0.05rem solid white;
+    border-collapse: collapse;
+    padding: 0.5rem;
 }
 
 a{
@@ -34,5 +40,4 @@ a{
     margin-left: auto;
     margin-right: auto;
     margin-top: 5rem;
-    border: 0.05rem solid white;
 }

@@ -24,8 +24,71 @@
                             <th>Category</th>
                             <th>Type</th>
                             <th>Date</th>
+                            <th>Actions</th>
                         </tr>
                     </thead>
+                    <tbody>
+                    <tr>
+                        <td>#1</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>10/02/2025</td>
+                        <td>
+                            <a href="">Edit</a>
+                            <span>|</span>
+                            <a href="">Delete</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>#2</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>10/02/2025</td>
+                        <td>
+                            <a href="">Edit</a>
+                            <span>|</span>
+                            <a href="">Delete</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>#3</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>10/02/2025</td>
+                        <td>
+                            <a href="">Edit</a>
+                            <span>|</span>
+                            <a href="">Delete</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>#4</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>10/02/2025</td>
+                        <td>
+                            <a href="">Edit</a>
+                            <span>|</span>
+                            <a href="">Delete</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>#5</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>Underground</td>
+                        <td>10/02/2025</td>
+                        <td>
+                            <a href="">Edit</a>
+                            <span>|</span>
+                            <a href="">Delete</a>
+                        </td>
+                    </tr>
+                    </tbody>
                 </table>
             </div>
         </div>
