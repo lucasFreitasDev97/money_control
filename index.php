@@ -20,8 +20,8 @@
                 <img class="index-photo" src="images/main-photo.jpeg" alt="Image logo with money and calculator">
             </div>
             <div>
-                <span><a href="transactions.php">Transactions | </a></span>
-                <span><a href="categories.php">Categories | </a></span>
+                <span><a href="transactions/index.php">Transactions | </a></span>
+                <span><a href="categories/index.php">Categories | </a></span>
                 <span><a href="#">Graphics</a></span>
             </div>
         </div>
